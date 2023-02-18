@@ -37,3 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oxymoron16&show_icons=true&locale=en" alt="oxymoron16" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oxymoron16&" alt="oxymoron16" /></p>
+
+![snake gif](https://github.com/OXYMORON16/OXYMORON16/blob/output/github-contribution-grid-snake.gif)
