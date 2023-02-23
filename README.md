@@ -9,7 +9,7 @@
     
 <!-- retro visitor counter -->  
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/disha1202/count.svg" />  
+  <img src="https://profile-counter.glitch.me/OXYMORON16/count.svg" />  
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oxymoron16" alt="oxymoron16" /></a> </p>
