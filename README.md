@@ -3,6 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oxymoron16&label=Profile%20views&color=0e75b6&style=flat" alt="oxymoron16" /> </p>
 
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/disha1202/count.svg" />  
+</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oxymoron16" alt="oxymoron16" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aashryaa" target="blank"><img src="https://img.shields.io/twitter/follow/aashryaa?logo=twitter&style=for-the-badge" alt="aashryaa" /></a> </p>
