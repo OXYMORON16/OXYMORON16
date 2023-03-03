@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=oxymoron16&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=oxymoron16&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 <p align="left"> <a href="https://twitter.com/aashryaa" target="blank"><img src="https://img.shields.io/twitter/follow/aashryaa?logo=twitter&style=for-the-badge" alt="aashryaa" /></a> </p>
 
