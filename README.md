@@ -28,8 +28,8 @@
 
 <div align="center">
   <h2>📊 GitHub Stats:</h2>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=oxymoron16&theme=radical&hide_border=true&include_all_commits=true&count_private=true" style="margin-right: 15px;" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=oxymoron16&theme=radical&hide_border=true" style="margin-left: 15px;" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=oxymoron16&theme=radical&hide_border=true&include_all_commits=true&count_private=true" style="margin-right: 25px;" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=oxymoron16&theme=radical&hide_border=true" style="margin-left: 25px;" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxymoron16&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="height: 195px; width: 300px;" />
 </div>
 
