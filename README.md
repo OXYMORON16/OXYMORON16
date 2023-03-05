@@ -28,10 +28,11 @@
 
 <div align="center">
   <h2>📊 GitHub Stats:</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=oxymoron16&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oxymoron16&theme=radical&hide_border=true"/>
-  <br />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxymoron16&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="250" width="400" />
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=oxymoron16&theme=radical&hide_border=true&include_all_commits=true&count_private=true" style="max-width: 50%; margin-right: 10px; margin-bottom: 10px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=oxymoron16&theme=radical&hide_border=true" style="max-width: 50%; margin-left: 10px; margin-bottom: 10px;" />
+  </div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxymoron16&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="300" width="450" />
 </div>
 
 
