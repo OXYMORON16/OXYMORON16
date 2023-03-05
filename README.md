@@ -38,7 +38,7 @@
       </td>
     </tr>
   </table>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxymoron16&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="300" width="450" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxymoron16&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="250" width="400" />
 </div>
 
 
