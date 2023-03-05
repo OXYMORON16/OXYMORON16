@@ -28,10 +28,11 @@
 
 <div align="center">
   <h2>📊 GitHub Stats:</h2>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=oxymoron16&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=oxymoron16&theme=radical&hide_border=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxymoron16&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=oxymoron16&theme=radical&hide_border=true&include_all_commits=true&count_private=true" style="margin-right: 10px;" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=oxymoron16&theme=radical&hide_border=true" style="margin-left: 10px;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxymoron16&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" style="height: 195px; width: 300px;" />
 </div>
+
 
 
 ## 🐦 Latest Tweet
