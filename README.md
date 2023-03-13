@@ -49,7 +49,7 @@
 
 <!-- Spotify Track -->  
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=j5986og5c36kkctaxxlbn0pma&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=j5986og5c36kkctaxxlbn0pma&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
+[![https://spotify-github-profile.vercel.app/api/view.svg?uid=j5986og5c36kkctaxxlbn0pma&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=j5986og5c36kkctaxxlbn0pma&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
