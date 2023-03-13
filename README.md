@@ -46,6 +46,8 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=aashryaa)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/j5986og5c36kkctaxxlbn0pma)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
