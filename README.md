@@ -17,7 +17,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning React<br><br>💬 Ask me about web2 web3<br><br>📫 How to reach me aashryashrivastava@gmail.com<br><br>⚡ Fun fact Glossy surfaces reflect much more than they reveal
+🌱 I’m currently learning Solidity<br><br>💬 Ask me about web2 web3<br><br>📫 How to reach me aashryashrivastava@gmail.com<br><br>⚡ Fun fact Glossy surfaces reflect much more than they reveal
 
 
 ## 🌐 Socials:
