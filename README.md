@@ -5,8 +5,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=oxymoron16&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 <p align="left"> <a href="https://twitter.com/aashryaa" target="blank"><img src="https://img.shields.io/twitter/follow/aashryaa?logo=twitter&style=for-the-badge" alt="aashryaa" /></a> </p>
-<p align="left"> <a href="https://twitter.com/aashryaa" target="blank"><img src="https://img.shields.io/twitter/follow/aashryaa?logo=twitter&style=for-the-badge" alt="aashryaa" /></a> </p>
-<p align="left"> <a href="https://twitter.com/aashryaa" target="blank"><img src="https://img.shields.io/twitter/follow/aashryaa?logo=twitter&style=for-the-badge" alt="aashryaa" /></a> </p>
+<p> <a href="https://twitter.com/aashryaa" target="blank"><img src="https://img.shields.io/twitter/follow/aashryaa?logo=twitter&style=for-the-badge" alt="aashryaa" /></a> </p>
+<p> <a href="https://twitter.com/aashryaa" target="blank"><img src="https://img.shields.io/twitter/follow/aashryaa?logo=twitter&style=for-the-badge" alt="aashryaa" /></a> </p>
 
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
