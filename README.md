@@ -60,5 +60,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ![snake gif](https://github.com/OXYMORON16/OXYMORON16/blob/output/github-contribution-grid-snake.svg)
-
-![Metrics](https://metrics.lecoq.io/OXYMORON16?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FCalcutta)
