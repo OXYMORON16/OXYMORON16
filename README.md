@@ -15,7 +15,7 @@
   <img src="https://profile-counter.glitch.me/OXYMORON16/count.svg" />  
 </p>
 
-<img align="right" alt="Coder GIF" height=200 width=300 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" style="margin-top: 10px;" />
+<img align="right" alt="Coder GIF" height=200 width=300 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 # 💫 About Me:
 🌱 I’m currently learning Solidity<br><br>💬 Ask me about web2 web3<br><br>📫 How to reach me aashryashrivastava@gmail.com<br><br>⚡ Fun fact Glossy surfaces reflect much more than they reveal
