@@ -15,11 +15,10 @@
   <img src="https://profile-counter.glitch.me/OXYMORON16/count.svg" />  
 </p>
 
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 # 💫 About Me:
 🌱 I’m currently learning Solidity<br><br>💬 Ask me about web2 web3<br><br>📫 How to reach me aashryashrivastava@gmail.com<br><br>⚡ Fun fact Glossy surfaces reflect much more than they reveal
-
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aashrya#9084) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aashryahimself) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aashryaa) 
