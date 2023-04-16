@@ -1,6 +1,8 @@
 <h1 align="center">Hi! I'm Aashrya Shrivastava <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px height = 30px></h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=oxymoron16&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
