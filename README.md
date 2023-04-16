@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/aashryaa" target="blank"><img src="https://img.shields.io/twitter/follow/aashryaa?logo=twitter&style=for-the-badge" alt="aashryaa" /></a></p>
 
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
