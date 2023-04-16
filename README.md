@@ -59,14 +59,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="center"><br><br>
-  <samp>
-    <i>Thanks for visiting my profile.<br>If you found it interesting, please leave a ⭐️</i> 
-  </samp>
-</p>
-
-<p align="center" width="100%">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer&text=Have%20a%20Nice%20Day"/>
-</p>
-
 ![snake gif](https://github.com/OXYMORON16/OXYMORON16/blob/output/github-contribution-grid-snake.svg)
