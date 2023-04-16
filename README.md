@@ -17,7 +17,7 @@
 
 # 💫 About Me:
 
-<img align="right" alt="Coder GIF" height=200 width=300 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+<img align="right" alt="Coder GIF" height=200 width=300 src="[https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)"/>
 
 🌱 I’m currently learning Solidity<br><br>💬 Ask me about web2 web3<br><br>📫 How to reach me aashryashrivastava@gmail.com<br><br>⚡ Fun fact Glossy surfaces reflect much more than they reveal
 
